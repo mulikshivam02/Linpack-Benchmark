@@ -17,7 +17,7 @@ This work was carried out as part of the **M.Tech (Computer Engineering)** cours
 ## 🎯 Objectives
 
 * Understand the internal working of **LINPACK / HPL**
-* Implement HPL using:
+* Implement HPL using :
 
   * Native Ubuntu installation
   * Docker container
